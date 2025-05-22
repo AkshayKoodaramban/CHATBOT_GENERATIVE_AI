@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'Generative AI Chatbot',
+    name = 'Chatbot',
     version= '0.0.0',
     author= 'Akshay K',
     author_email= 'akshay.k@difinitydigital.com',
